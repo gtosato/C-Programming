@@ -7,11 +7,11 @@
 //
 
 #include <stdio.h>
-#include "exercise2_27.h"
+#include "exercise2_31.h"
 
 int main(int argc, const char * argv[]) {
 
-    exercise2_27();
+    exercise2_31();
     
     return 0;
 }
