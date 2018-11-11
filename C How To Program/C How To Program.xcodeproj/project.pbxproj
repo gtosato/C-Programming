@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C2C17BF2198CA6100486B61 /* exercise2_26.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C17BE2198CA6100486B61 /* exercise2_26.c */; };
+		4C2C17C22198CC9600486B61 /* exercise2_27.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C17C12198CC9600486B61 /* exercise2_27.c */; };
 		4C6D051121984D790067C57E /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D051021984D790067C57E /* main.c */; };
 		4C6D051921984F670067C57E /* exercise2_16.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D051821984F670067C57E /* exercise2_16.c */; };
 		4C6D051E219851940067C57E /* exercise2_17.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D051D219851940067C57E /* exercise2_17.c */; };
@@ -33,6 +35,10 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4C2C17BD2198CA6100486B61 /* exercise2_26.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_26.h; sourceTree = "<group>"; };
+		4C2C17BE2198CA6100486B61 /* exercise2_26.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise2_26.c; sourceTree = "<group>"; };
+		4C2C17C02198CC9600486B61 /* exercise2_27.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_27.h; sourceTree = "<group>"; };
+		4C2C17C12198CC9600486B61 /* exercise2_27.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise2_27.c; sourceTree = "<group>"; };
 		4C6D050D21984D790067C57E /* C How To Program */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C How To Program"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C6D051021984D790067C57E /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		4C6D051721984F670067C57E /* exercise2_16.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_16.h; sourceTree = "<group>"; };
@@ -87,6 +93,8 @@
 		4C6D050F21984D790067C57E /* C How To Program */ = {
 			isa = PBXGroup;
 			children = (
+				4C2C17C12198CC9600486B61 /* exercise2_27.c */,
+				4C2C17BE2198CA6100486B61 /* exercise2_26.c */,
 				4C6D053821985FA20067C57E /* exercise2_25.c */,
 				4C6D053521985EE20067C57E /* exercise2_24.c */,
 				4C6D053221985DF80067C57E /* exercise2_23.c */,
@@ -106,6 +114,8 @@
 		4C6D051B219851430067C57E /* Header Files */ = {
 			isa = PBXGroup;
 			children = (
+				4C2C17C02198CC9600486B61 /* exercise2_27.h */,
+				4C2C17BD2198CA6100486B61 /* exercise2_26.h */,
 				4C6D053721985FA20067C57E /* exercise2_25.h */,
 				4C6D053421985EE20067C57E /* exercise2_24.h */,
 				4C6D053121985DF80067C57E /* exercise2_23.h */,
@@ -180,6 +190,8 @@
 				4C6D052D21985B720067C57E /* exercise2_21.c in Sources */,
 				4C6D053921985FA20067C57E /* exercise2_25.c in Sources */,
 				4C6D053321985DF80067C57E /* exercise2_23.c in Sources */,
+				4C2C17BF2198CA6100486B61 /* exercise2_26.c in Sources */,
+				4C2C17C22198CC9600486B61 /* exercise2_27.c in Sources */,
 				4C6D0527219859F40067C57E /* exercise2_19.c in Sources */,
 				4C6D051121984D790067C57E /* main.c in Sources */,
 				4C6D0524219854BF0067C57E /* exercise2_18.c in Sources */,
