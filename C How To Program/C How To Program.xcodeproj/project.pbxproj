@@ -138,15 +138,11 @@
 		4C6D050F21984D790067C57E /* C How To Program */ = {
 			isa = PBXGroup;
 			children = (
-				4C0CDA7D21A4B29D0022EC2C /* exercise3_28.h */,
 				4C0CDA7E21A4B29D0022EC2C /* exercise3_28.c */,
-				4C0CDA6F21A2DCF50022EC2C /* exercise3_24.c */,
-				4C0CDA7121A48FFF0022EC2C /* exercise3_25.h */,
-				4C0CDA7221A48FFF0022EC2C /* exercise3_25.c */,
-				4C0CDA7421A4923B0022EC2C /* exercise3_26.h */,
-				4C0CDA7521A4923B0022EC2C /* exercise3_26.c */,
-				4C0CDA7721A4965E0022EC2C /* exercise3_27.h */,
 				4C0CDA7821A4965E0022EC2C /* exercise3_27.c */,
+				4C0CDA7521A4923B0022EC2C /* exercise3_26.c */,
+				4C0CDA7221A48FFF0022EC2C /* exercise3_25.c */,
+				4C0CDA6F21A2DCF50022EC2C /* exercise3_24.c */,
 				4C0CDA6C21A2DBFD0022EC2C /* exercise3_23.c */,
 				4C0CDA6921A2DA1E0022EC2C /* exercise3_22.c */,
 				4C0CDA6621A2D21F0022EC2C /* exercise3_21.c */,
@@ -178,6 +174,10 @@
 		4C6D051B219851430067C57E /* Header Files */ = {
 			isa = PBXGroup;
 			children = (
+				4C0CDA7D21A4B29D0022EC2C /* exercise3_28.h */,
+				4C0CDA7721A4965E0022EC2C /* exercise3_27.h */,
+				4C0CDA7421A4923B0022EC2C /* exercise3_26.h */,
+				4C0CDA7121A48FFF0022EC2C /* exercise3_25.h */,
 				4C0CDA6E21A2DCF50022EC2C /* exercise3_24.h */,
 				4C0CDA6B21A2DBFD0022EC2C /* exercise3_23.h */,
 				4C0CDA6821A2DA1E0022EC2C /* exercise3_22.h */,
