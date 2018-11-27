@@ -15,6 +15,12 @@
 		4C0CDA7621A4923B0022EC2C /* exercise3_26.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA7521A4923B0022EC2C /* exercise3_26.c */; };
 		4C0CDA7921A4965E0022EC2C /* exercise3_27.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA7821A4965E0022EC2C /* exercise3_27.c */; };
 		4C0CDA7F21A4B29D0022EC2C /* exercise3_28.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA7E21A4B29D0022EC2C /* exercise3_28.c */; };
+		4C0CDA8221AB2CD30022EC2C /* exercise3_29.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA8121AB2CD30022EC2C /* exercise3_29.c */; };
+		4C0CDA8521AB2D9B0022EC2C /* exercise3_30.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA8421AB2D9B0022EC2C /* exercise3_30.c */; };
+		4C0CDA8821AB2F770022EC2C /* exercise3_31.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA8721AB2F770022EC2C /* exercise3_31.c */; };
+		4C0CDA8B21AB36EE0022EC2C /* exercise3_32.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA8A21AB36EE0022EC2C /* exercise3_32.c */; };
+		4C0CDA8E21AB3A060022EC2C /* exercise3_33.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA8D21AB3A060022EC2C /* exercise3_33.c */; };
+		4C0CDA9421AB40A00022EC2C /* exercise3_34.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C0CDA9321AB40A00022EC2C /* exercise3_34.c */; };
 		4C2C17BF2198CA6100486B61 /* exercise2_26.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C17BE2198CA6100486B61 /* exercise2_26.c */; };
 		4C2C17C22198CC9600486B61 /* exercise2_27.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C17C12198CC9600486B61 /* exercise2_27.c */; };
 		4C2C17C52198CDF100486B61 /* exercise2_29.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C2C17C42198CDF100486B61 /* exercise2_29.c */; };
@@ -35,6 +41,9 @@
 		4C6D053321985DF80067C57E /* exercise2_23.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D053221985DF80067C57E /* exercise2_23.c */; };
 		4C6D053621985EE20067C57E /* exercise2_24.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D053521985EE20067C57E /* exercise2_24.c */; };
 		4C6D053921985FA20067C57E /* exercise2_25.c in Sources */ = {isa = PBXBuildFile; fileRef = 4C6D053821985FA20067C57E /* exercise2_25.c */; };
+		4CEB662921ADDAF800895C98 /* exercise3_35.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662821ADDAF800895C98 /* exercise3_35.c */; };
+		4CEB662C21ADE05B00895C98 /* exercise3_36.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662B21ADE05B00895C98 /* exercise3_36.c */; };
+		4CEB662F21ADE71800895C98 /* exercise3_37.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662E21ADE71800895C98 /* exercise3_37.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -66,6 +75,18 @@
 		4C0CDA7821A4965E0022EC2C /* exercise3_27.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_27.c; sourceTree = "<group>"; };
 		4C0CDA7D21A4B29D0022EC2C /* exercise3_28.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_28.h; sourceTree = "<group>"; };
 		4C0CDA7E21A4B29D0022EC2C /* exercise3_28.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_28.c; sourceTree = "<group>"; };
+		4C0CDA8021AB2CD30022EC2C /* exercise3_29.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_29.h; sourceTree = "<group>"; };
+		4C0CDA8121AB2CD30022EC2C /* exercise3_29.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_29.c; sourceTree = "<group>"; };
+		4C0CDA8321AB2D9B0022EC2C /* exercise3_30.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_30.h; sourceTree = "<group>"; };
+		4C0CDA8421AB2D9B0022EC2C /* exercise3_30.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_30.c; sourceTree = "<group>"; };
+		4C0CDA8621AB2F770022EC2C /* exercise3_31.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_31.h; sourceTree = "<group>"; };
+		4C0CDA8721AB2F770022EC2C /* exercise3_31.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_31.c; sourceTree = "<group>"; };
+		4C0CDA8921AB36EE0022EC2C /* exercise3_32.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_32.h; sourceTree = "<group>"; };
+		4C0CDA8A21AB36EE0022EC2C /* exercise3_32.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_32.c; sourceTree = "<group>"; };
+		4C0CDA8C21AB3A060022EC2C /* exercise3_33.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_33.h; sourceTree = "<group>"; };
+		4C0CDA8D21AB3A060022EC2C /* exercise3_33.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_33.c; sourceTree = "<group>"; };
+		4C0CDA9221AB40A00022EC2C /* exercise3_34.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_34.h; sourceTree = "<group>"; };
+		4C0CDA9321AB40A00022EC2C /* exercise3_34.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_34.c; sourceTree = "<group>"; };
 		4C2C17BD2198CA6100486B61 /* exercise2_26.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_26.h; sourceTree = "<group>"; };
 		4C2C17BE2198CA6100486B61 /* exercise2_26.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise2_26.c; sourceTree = "<group>"; };
 		4C2C17C02198CC9600486B61 /* exercise2_27.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_27.h; sourceTree = "<group>"; };
@@ -106,6 +127,12 @@
 		4C6D053521985EE20067C57E /* exercise2_24.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise2_24.c; sourceTree = "<group>"; };
 		4C6D053721985FA20067C57E /* exercise2_25.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise2_25.h; sourceTree = "<group>"; };
 		4C6D053821985FA20067C57E /* exercise2_25.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise2_25.c; sourceTree = "<group>"; };
+		4CEB662721ADDAF800895C98 /* exercise3_35.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_35.h; sourceTree = "<group>"; };
+		4CEB662821ADDAF800895C98 /* exercise3_35.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_35.c; sourceTree = "<group>"; };
+		4CEB662A21ADE05B00895C98 /* exercise3_36.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_36.h; sourceTree = "<group>"; };
+		4CEB662B21ADE05B00895C98 /* exercise3_36.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_36.c; sourceTree = "<group>"; };
+		4CEB662D21ADE71800895C98 /* exercise3_37.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_37.h; sourceTree = "<group>"; };
+		4CEB662E21ADE71800895C98 /* exercise3_37.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_37.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -138,6 +165,15 @@
 		4C6D050F21984D790067C57E /* C How To Program */ = {
 			isa = PBXGroup;
 			children = (
+				4CEB662E21ADE71800895C98 /* exercise3_37.c */,
+				4CEB662B21ADE05B00895C98 /* exercise3_36.c */,
+				4CEB662821ADDAF800895C98 /* exercise3_35.c */,
+				4C0CDA9321AB40A00022EC2C /* exercise3_34.c */,
+				4C0CDA8D21AB3A060022EC2C /* exercise3_33.c */,
+				4C0CDA8A21AB36EE0022EC2C /* exercise3_32.c */,
+				4C0CDA8721AB2F770022EC2C /* exercise3_31.c */,
+				4C0CDA8421AB2D9B0022EC2C /* exercise3_30.c */,
+				4C0CDA8121AB2CD30022EC2C /* exercise3_29.c */,
 				4C0CDA7E21A4B29D0022EC2C /* exercise3_28.c */,
 				4C0CDA7821A4965E0022EC2C /* exercise3_27.c */,
 				4C0CDA7521A4923B0022EC2C /* exercise3_26.c */,
@@ -174,6 +210,15 @@
 		4C6D051B219851430067C57E /* Header Files */ = {
 			isa = PBXGroup;
 			children = (
+				4CEB662D21ADE71800895C98 /* exercise3_37.h */,
+				4CEB662A21ADE05B00895C98 /* exercise3_36.h */,
+				4CEB662721ADDAF800895C98 /* exercise3_35.h */,
+				4C0CDA9221AB40A00022EC2C /* exercise3_34.h */,
+				4C0CDA8C21AB3A060022EC2C /* exercise3_33.h */,
+				4C0CDA8921AB36EE0022EC2C /* exercise3_32.h */,
+				4C0CDA8621AB2F770022EC2C /* exercise3_31.h */,
+				4C0CDA8321AB2D9B0022EC2C /* exercise3_30.h */,
+				4C0CDA8021AB2CD30022EC2C /* exercise3_29.h */,
 				4C0CDA7D21A4B29D0022EC2C /* exercise3_28.h */,
 				4C0CDA7721A4965E0022EC2C /* exercise3_27.h */,
 				4C0CDA7421A4923B0022EC2C /* exercise3_26.h */,
@@ -261,8 +306,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4C0CDA8521AB2D9B0022EC2C /* exercise3_30.c in Sources */,
+				4C0CDA8821AB2F770022EC2C /* exercise3_31.c in Sources */,
 				4C6D053621985EE20067C57E /* exercise2_24.c in Sources */,
 				4C0CDA6721A2D21F0022EC2C /* exercise3_21.c in Sources */,
+				4C0CDA9421AB40A00022EC2C /* exercise3_34.c in Sources */,
 				4C6D052D21985B720067C57E /* exercise2_21.c in Sources */,
 				4C2C17D121A2AFEB00486B61 /* exercise3_18.c in Sources */,
 				4C6D053921985FA20067C57E /* exercise2_25.c in Sources */,
@@ -273,17 +321,23 @@
 				4C2C17BF2198CA6100486B61 /* exercise2_26.c in Sources */,
 				4C2C17C82198CE9F00486B61 /* exercise2_30.c in Sources */,
 				4C2C17C22198CC9600486B61 /* exercise2_27.c in Sources */,
+				4C0CDA8B21AB36EE0022EC2C /* exercise3_32.c in Sources */,
 				4C6D0527219859F40067C57E /* exercise2_19.c in Sources */,
 				4C6D051121984D790067C57E /* main.c in Sources */,
 				4C6D0524219854BF0067C57E /* exercise2_18.c in Sources */,
+				4C0CDA8221AB2CD30022EC2C /* exercise3_29.c in Sources */,
+				4CEB662921ADDAF800895C98 /* exercise3_35.c in Sources */,
 				4C0CDA7F21A4B29D0022EC2C /* exercise3_28.c in Sources */,
 				4C6D053021985C9B0067C57E /* exercise2_22.c in Sources */,
 				4C6D051921984F670067C57E /* exercise2_16.c in Sources */,
 				4C2C17CB2198CEE800486B61 /* exercise2_31.c in Sources */,
 				4C0CDA6D21A2DBFD0022EC2C /* exercise3_23.c in Sources */,
+				4C0CDA8E21AB3A060022EC2C /* exercise3_33.c in Sources */,
+				4CEB662F21ADE71800895C98 /* exercise3_37.c in Sources */,
 				4C2C17D721A2BAE600486B61 /* exercise3_20.c in Sources */,
 				4C0CDA7621A4923B0022EC2C /* exercise3_26.c in Sources */,
 				4C0CDA6A21A2DA1E0022EC2C /* exercise3_22.c in Sources */,
+				4CEB662C21ADE05B00895C98 /* exercise3_36.c in Sources */,
 				4C0CDA7321A48FFF0022EC2C /* exercise3_25.c in Sources */,
 				4C6D052A21985AD20067C57E /* exercise2_20.c in Sources */,
 				4C6D051E219851940067C57E /* exercise2_17.c in Sources */,
