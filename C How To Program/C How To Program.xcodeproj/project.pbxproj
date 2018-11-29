@@ -183,15 +183,13 @@
 		4C6D050F21984D790067C57E /* C How To Program */ = {
 			isa = PBXGroup;
 			children = (
-				4CEB662E21ADE71800895C98 /* exercise3_37.c */,
-				4CEB663021AF95C300895C98 /* exercise3_38.h */,
-				4CEB663121AF95C300895C98 /* exercise3_38.c */,
-				4CEB663321AF96B200895C98 /* exercise3_39.h */,
-				4CEB663421AF96B200895C98 /* exercise3_39.c */,
-				4CEB663621AFB28400895C98 /* exercise3_40.h */,
-				4CEB663721AFB28400895C98 /* exercise3_40.c */,
-				4CEB663921B00B4C00895C98 /* exercise3_41.h */,
+				4CEB664021B00FBA00895C98 /* exercise3_44.c */,
+				4CEB663D21B00DB200895C98 /* exercise3_42.c */,
 				4CEB663A21B00B4C00895C98 /* exercise3_41.c */,
+				4CEB663721AFB28400895C98 /* exercise3_40.c */,
+				4CEB663421AF96B200895C98 /* exercise3_39.c */,
+				4CEB663121AF95C300895C98 /* exercise3_38.c */,
+				4CEB662E21ADE71800895C98 /* exercise3_37.c */,
 				4CEB662B21ADE05B00895C98 /* exercise3_36.c */,
 				4CEB662821ADDAF800895C98 /* exercise3_35.c */,
 				4C0CDA9321AB40A00022EC2C /* exercise3_34.c */,
@@ -228,11 +226,7 @@
 				4C6D051D219851940067C57E /* exercise2_17.c */,
 				4C6D051821984F670067C57E /* exercise2_16.c */,
 				4C6D051021984D790067C57E /* main.c */,
-				4CEB663F21B00FBA00895C98 /* exercise3_44.h */,
-				4CEB664021B00FBA00895C98 /* exercise3_44.c */,
 				4C6D051B219851430067C57E /* Header Files */,
-				4CEB663C21B00DB200895C98 /* exercise3_42.h */,
-				4CEB663D21B00DB200895C98 /* exercise3_42.c */,
 			);
 			path = "C How To Program";
 			sourceTree = "<group>";
@@ -240,6 +234,12 @@
 		4C6D051B219851430067C57E /* Header Files */ = {
 			isa = PBXGroup;
 			children = (
+				4CEB663F21B00FBA00895C98 /* exercise3_44.h */,
+				4CEB663C21B00DB200895C98 /* exercise3_42.h */,
+				4CEB663921B00B4C00895C98 /* exercise3_41.h */,
+				4CEB663621AFB28400895C98 /* exercise3_40.h */,
+				4CEB663321AF96B200895C98 /* exercise3_39.h */,
+				4CEB663021AF95C300895C98 /* exercise3_38.h */,
 				4CEB662D21ADE71800895C98 /* exercise3_37.h */,
 				4CEB662A21ADE05B00895C98 /* exercise3_36.h */,
 				4CEB662721ADDAF800895C98 /* exercise3_35.h */,
