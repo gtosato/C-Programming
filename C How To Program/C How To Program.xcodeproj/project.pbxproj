@@ -44,6 +44,12 @@
 		4CEB662921ADDAF800895C98 /* exercise3_35.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662821ADDAF800895C98 /* exercise3_35.c */; };
 		4CEB662C21ADE05B00895C98 /* exercise3_36.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662B21ADE05B00895C98 /* exercise3_36.c */; };
 		4CEB662F21ADE71800895C98 /* exercise3_37.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB662E21ADE71800895C98 /* exercise3_37.c */; };
+		4CEB663221AF95C300895C98 /* exercise3_38.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB663121AF95C300895C98 /* exercise3_38.c */; };
+		4CEB663521AF96B200895C98 /* exercise3_39.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB663421AF96B200895C98 /* exercise3_39.c */; };
+		4CEB663821AFB28400895C98 /* exercise3_40.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB663721AFB28400895C98 /* exercise3_40.c */; };
+		4CEB663B21B00B4C00895C98 /* exercise3_41.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB663A21B00B4C00895C98 /* exercise3_41.c */; };
+		4CEB663E21B00DB200895C98 /* exercise3_42.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB663D21B00DB200895C98 /* exercise3_42.c */; };
+		4CEB664121B00FBA00895C98 /* exercise3_44.c in Sources */ = {isa = PBXBuildFile; fileRef = 4CEB664021B00FBA00895C98 /* exercise3_44.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -133,6 +139,18 @@
 		4CEB662B21ADE05B00895C98 /* exercise3_36.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_36.c; sourceTree = "<group>"; };
 		4CEB662D21ADE71800895C98 /* exercise3_37.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_37.h; sourceTree = "<group>"; };
 		4CEB662E21ADE71800895C98 /* exercise3_37.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_37.c; sourceTree = "<group>"; };
+		4CEB663021AF95C300895C98 /* exercise3_38.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_38.h; sourceTree = "<group>"; };
+		4CEB663121AF95C300895C98 /* exercise3_38.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_38.c; sourceTree = "<group>"; };
+		4CEB663321AF96B200895C98 /* exercise3_39.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_39.h; sourceTree = "<group>"; };
+		4CEB663421AF96B200895C98 /* exercise3_39.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_39.c; sourceTree = "<group>"; };
+		4CEB663621AFB28400895C98 /* exercise3_40.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_40.h; sourceTree = "<group>"; };
+		4CEB663721AFB28400895C98 /* exercise3_40.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_40.c; sourceTree = "<group>"; };
+		4CEB663921B00B4C00895C98 /* exercise3_41.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_41.h; sourceTree = "<group>"; };
+		4CEB663A21B00B4C00895C98 /* exercise3_41.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_41.c; sourceTree = "<group>"; };
+		4CEB663C21B00DB200895C98 /* exercise3_42.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_42.h; sourceTree = "<group>"; };
+		4CEB663D21B00DB200895C98 /* exercise3_42.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_42.c; sourceTree = "<group>"; };
+		4CEB663F21B00FBA00895C98 /* exercise3_44.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = exercise3_44.h; sourceTree = "<group>"; };
+		4CEB664021B00FBA00895C98 /* exercise3_44.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = exercise3_44.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +184,14 @@
 			isa = PBXGroup;
 			children = (
 				4CEB662E21ADE71800895C98 /* exercise3_37.c */,
+				4CEB663021AF95C300895C98 /* exercise3_38.h */,
+				4CEB663121AF95C300895C98 /* exercise3_38.c */,
+				4CEB663321AF96B200895C98 /* exercise3_39.h */,
+				4CEB663421AF96B200895C98 /* exercise3_39.c */,
+				4CEB663621AFB28400895C98 /* exercise3_40.h */,
+				4CEB663721AFB28400895C98 /* exercise3_40.c */,
+				4CEB663921B00B4C00895C98 /* exercise3_41.h */,
+				4CEB663A21B00B4C00895C98 /* exercise3_41.c */,
 				4CEB662B21ADE05B00895C98 /* exercise3_36.c */,
 				4CEB662821ADDAF800895C98 /* exercise3_35.c */,
 				4C0CDA9321AB40A00022EC2C /* exercise3_34.c */,
@@ -202,7 +228,11 @@
 				4C6D051D219851940067C57E /* exercise2_17.c */,
 				4C6D051821984F670067C57E /* exercise2_16.c */,
 				4C6D051021984D790067C57E /* main.c */,
+				4CEB663F21B00FBA00895C98 /* exercise3_44.h */,
+				4CEB664021B00FBA00895C98 /* exercise3_44.c */,
 				4C6D051B219851430067C57E /* Header Files */,
+				4CEB663C21B00DB200895C98 /* exercise3_42.h */,
+				4CEB663D21B00DB200895C98 /* exercise3_42.c */,
 			);
 			path = "C How To Program";
 			sourceTree = "<group>";
@@ -311,10 +341,14 @@
 				4C6D053621985EE20067C57E /* exercise2_24.c in Sources */,
 				4C0CDA6721A2D21F0022EC2C /* exercise3_21.c in Sources */,
 				4C0CDA9421AB40A00022EC2C /* exercise3_34.c in Sources */,
+				4CEB663821AFB28400895C98 /* exercise3_40.c in Sources */,
 				4C6D052D21985B720067C57E /* exercise2_21.c in Sources */,
+				4CEB663521AF96B200895C98 /* exercise3_39.c in Sources */,
 				4C2C17D121A2AFEB00486B61 /* exercise3_18.c in Sources */,
 				4C6D053921985FA20067C57E /* exercise2_25.c in Sources */,
 				4C6D053321985DF80067C57E /* exercise2_23.c in Sources */,
+				4CEB663E21B00DB200895C98 /* exercise3_42.c in Sources */,
+				4CEB664121B00FBA00895C98 /* exercise3_44.c in Sources */,
 				4C2C17D421A2B85200486B61 /* exercise3_19.c in Sources */,
 				4C0CDA7921A4965E0022EC2C /* exercise3_27.c in Sources */,
 				4C0CDA7021A2DCF50022EC2C /* exercise3_24.c in Sources */,
@@ -326,10 +360,12 @@
 				4C6D051121984D790067C57E /* main.c in Sources */,
 				4C6D0524219854BF0067C57E /* exercise2_18.c in Sources */,
 				4C0CDA8221AB2CD30022EC2C /* exercise3_29.c in Sources */,
+				4CEB663B21B00B4C00895C98 /* exercise3_41.c in Sources */,
 				4CEB662921ADDAF800895C98 /* exercise3_35.c in Sources */,
 				4C0CDA7F21A4B29D0022EC2C /* exercise3_28.c in Sources */,
 				4C6D053021985C9B0067C57E /* exercise2_22.c in Sources */,
 				4C6D051921984F670067C57E /* exercise2_16.c in Sources */,
+				4CEB663221AF95C300895C98 /* exercise3_38.c in Sources */,
 				4C2C17CB2198CEE800486B61 /* exercise2_31.c in Sources */,
 				4C0CDA6D21A2DBFD0022EC2C /* exercise3_23.c in Sources */,
 				4C0CDA8E21AB3A060022EC2C /* exercise3_33.c in Sources */,
